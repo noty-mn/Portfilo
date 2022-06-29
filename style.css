@@ -51,7 +51,7 @@ html {
 }
 
 .image {
-  background-image: url(/pexels-travis-blessing-1363876.jpg);
+  background-image: url(pexels-travis-blessing-1363876.jpg);
   height: 100vh;
   background-position: top;
   background-repeat: no-repeat;
@@ -335,7 +335,7 @@ html {
     height: 100vh;
   }
   .mobile .mobile-start .mobile-header .mobile-image {
-    background-image: url(/pexels-travis-blessing-1363876.jpg);
+    background-image: url(pexels-travis-blessing-1363876.jpg);
     height: 100vh;
     background-position: top;
     background-repeat: no-repeat;
